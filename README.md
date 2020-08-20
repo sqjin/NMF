@@ -1,3 +1,9 @@
+
+## Installation
+This is the NMF package from [https://github.com/renozao](https://github.com/renozao/NMF), but for the old version 0.22.0
+`devtools::install_github("sqjin/NMF")`
+
+
 ## Background
 
 Nonnegative Matrix Factorization (NMF) is an unsupervised learning technique that has been applied successfully in several fields, including signal processing, face recognition and text mining.
