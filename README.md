@@ -2,9 +2,9 @@
 ## Installation
 This is the NMF package from [https://github.com/renozao](https://github.com/renozao/NMF), but for the old version 0.22.0. It can be installed by 
 
-`
+```
 devtools::install_github("sqjin/NMF")
-`
+```
 
 
 ## Background
